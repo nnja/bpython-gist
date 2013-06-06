@@ -12,6 +12,7 @@ Screen-Shots
 --------
 
 **Your repl**
+
 ![bpython repl](https://raw.github.com/nnja/bpython-gist/master/img/bpython.png)
 
 **The default behavior exports indentation guides and uses bpaste**
@@ -29,7 +30,7 @@ Requirements
 Installation
 --------
 
-1. **Download [gist.py](https://github.com/nnja/bpython-gist/gist.py), and add it to a location in your path.**
+1. **Download [gist.py](https://raw.github.com/nnja/bpython-gist/master/gist.py), and add it to a location in your path.**
 
 2. **Open your bpython configuration file, or create one if it doesn't exist.**
 
